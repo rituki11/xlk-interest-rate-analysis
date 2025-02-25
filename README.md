@@ -1,5 +1,6 @@
 # 📈 金利とXLKの関係分析プロジェクト
 ### Federal Funds Rate vs Technology ETF (XLK) Analysis
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rituki11/xlk-interest-rate-analysis/blob/main/analysis.ipynb)
 
 ## 🚀 プロジェクト概要
 このプロジェクトでは、**FRBの政策金利（Federal Funds Rate）とテクノロジーETF（XLK）の関係を分析** しました。  
