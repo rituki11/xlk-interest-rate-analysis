@@ -50,13 +50,6 @@ pip install -r requirements.txt
 
 ---
 
-## **📌 インターン応募時の使い方**
-💡 **このプロジェクトのGitHub URLを応募フォームや履歴書に記載！**  
-👉 **`https://github.com/rituki11/xlk-interest-rate-analysis`**  
-📌 **面接でのアピールポイント**
-- 「市場データを使って、金利とテクノロジーETF（XLK）の関係を分析しました」
-- 「Pythonでデータ取得・分析・可視化を行い、GitHubにまとめました」
-- 「短期・長期の相関を調べた結果、2022年以降の金利上昇でもXLKが上昇することが分かりました」
 
 ---
 
