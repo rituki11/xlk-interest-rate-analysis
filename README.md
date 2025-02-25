@@ -48,12 +48,4 @@ pip install -r requirements.txt
 - FRBの金利データ: [FRED API](https://fred.stlouisfed.org/)
 - 株価データ: [Yahoo Finance](https://finance.yahoo.com/)
 
----
-
-
----
-
-🚀 **このREADME.mdを追加すれば、GitHubリポジトリがより完成度の高いポートフォリオになる！**  
-👉 **GitHubの「Add file」→「Create new file」→ `README.md` を作成し、上記の内容をコピペしよう！**  
-👉 **終わったら、インターン応募に使える！🎯** 🚀
 
